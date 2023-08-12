@@ -1,4 +1,4 @@
-# tme_chat_bot
+# Telegram chatGPT Bot based on AIOGram
 Test chatGPT connection Bot
 
 
